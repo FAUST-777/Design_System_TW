@@ -94,6 +94,8 @@ const config = {
             label: 'GitHub',
             position: 'right',
           },
+          // 添加以下條目
+          { to: '/001_test', label: 'Figma Page', position: 'left' }, // 連結到你的 001_test.md
         ],
       },
       footer: {
