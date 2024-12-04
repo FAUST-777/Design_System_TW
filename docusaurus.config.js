@@ -11,7 +11,7 @@ import {themes as prismThemes} from 'prism-react-renderer';
 /** @type {import('@docusaurus/types').Config} */
 const config = {
   title: 'Design System TW team!',
-  tagline: 'Dinosaurs are cool',
+  tagline: 'this is test design system website',
   favicon: 'img/favicon.ico',
 
   // Set the production url of your site here
@@ -88,7 +88,7 @@ const config = {
             position: 'left',
             label: 'Tutorial+Doc',
           },
-          {to: '/blog', label: 'TEST', position: 'left'},
+          {to: '/blog', label: 'HOME', position: 'left'},
           {
             href: 'https://github.com/facebook/docusaurus',
             label: 'GitHub',
